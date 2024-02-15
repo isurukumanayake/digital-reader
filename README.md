@@ -1,14 +1,14 @@
 # Digital Reader for Bus
 
 <div style="display: flex;">
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/59cf73ab-337c-4be5-b1f0-3050aa1690ea" width="240" >
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/839daae0-c646-4cd3-b51b-40fd4da250e3" width="240" >
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/4e9d5438-4efb-4af3-b659-65c2d72b93cd" width="240" >
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/4d91786f-54f7-4ff3-a870-e4e7054cf463" width="240" >
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/8a8077a3-78c8-442d-b25a-d3e8880670e1" width="240" >
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/33f09e69-da2c-4399-8d3f-3acacab486c7" width="240" >
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/4bc72948-d998-43e7-9347-d5e363c70018" width="240" >
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/a00eba01-f05d-4ebb-a2b7-e218497c138b" width="240" >
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/edc8e0f5-9a54-4c9e-8c61-4293732e6a4d" width="240" >
-    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/129ee1d5-ecb8-46aa-bd28-6f68daadd2d5" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/564a5834-c8e9-4093-8c18-0b1ff9593800" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/ab2ed6cb-3ef4-426a-8e34-17114e63279f" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/c714b573-cf6a-4df0-a0f8-663447689c5f" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/41680c1f-79ba-4fa8-b54b-17397b9d7b1b" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/0b8c83f9-284e-426b-b1f4-367264499f66" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/961478ad-4532-41db-8468-e0a887d951d0" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/7f0270ae-ce5c-4a48-8ec0-ab209d138bb3" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/6e9044f0-e994-4fc9-bd05-724398a3296c" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/a8bdcc0a-01a7-4896-80c8-8a3b1f52d1ff" width="240" >
+    <img src="https://github.com/isurukumanayake/digital-reader/assets/137193960/441736e6-61df-41c5-9c11-50dcdc5f8b94" width="240" >
 </div>
